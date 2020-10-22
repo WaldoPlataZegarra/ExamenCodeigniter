@@ -155,7 +155,10 @@
 	$identificador[9][2]="1996-11-01";
 	$identificador[9][3]="06";
 	echo "<br>";
-$	codigos = array(array(15));
+	
+	/*pregunta 2*/
+	
+	$codigos = array(array(15));
 	$c=0;
 
 		for($i=0;$i<15;$i++)
